@@ -1,0 +1,7 @@
+[vt]
+apikey=e273041d51f6333fcd7a2802614a16454229bbfe4cec015b8be897698123c403
+
+type=public
+intelligence=False
+engines= #put there coma separated engine list, or only one, or leave it empty
+timeout= 60 #default 60, if you want change it, specify number here
